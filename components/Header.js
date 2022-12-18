@@ -19,7 +19,6 @@ function Header({ title = "Ephrem Demelash" }) {
       />
       <meta key={"article:author"} property="article:author" content={title} />
       <link rel="icon" href="/favicon.ico" />
-      <div></div>
     </Head>
   );
 }
